@@ -1,7 +1,7 @@
 <h1 align="center">Hey!👋 I'm Hoe Zhi Wan</h1>
 <h3 align="center">A software engineering student at UTM that is passionate at programming</h3>
 
-- 👨‍💻 All of my projects are available at [hoezhiwan.my](www.hoezhiwan.my)
+- 👨‍💻 All of my projects are available at [hoezhiwan.my](https://hoezhiwan.my)
 
 - 📫 How to reach me **hoezhiwan@gmail.com**
 
